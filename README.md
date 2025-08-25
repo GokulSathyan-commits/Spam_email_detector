@@ -36,6 +36,4 @@ Run the main script to train and evaluate models, then use the returned `predict
 - pandas
 - scikit-learn
 
-Install dependencies using:
-
 
